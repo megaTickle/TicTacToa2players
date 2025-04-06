@@ -32,6 +32,6 @@ public class BoardGame extends View {
             ((GameActivity)context).setPositionToFb(0,0);
         }
 
-        return false;
+        return false:
     }
 }
